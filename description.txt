@@ -1,0 +1,105 @@
+[h1]White Flags[/h1]
+https://steamcommunity.com/sharedfiles/filedetails/?id=924125661
+
+[hr][/hr]
+
+This mod adds following flags to the game
+Achievement compatible
+
+[h1]Real World Flags[/h1]
+[list]
+    [*] Europe stars
+    [*] Canadian leave
+    [*] Hammer and Sickle
+    [*] China
+    [*] Balkenkreuz
+    [*] Industrial Worker
+    [*] Roman Empire
+[/list]
+
+[h1]Real World Symbols[/h1]
+[list]
+    [*] Atom
+    [*] Biohazard
+    [*] Pentagon
+    [*] Anarchist black cat
+    [*] Weed
+    [*] Google
+    [*] Blackwater
+[/list]
+
+[h1]Zelda[/h1]
+[list]
+    [*] Triforce
+[/list]
+
+[h1]Portal[/h1]
+[list]
+    [*] Aperture Science
+    [*] Cerberus
+[/list]
+
+[h1]Borderlands[/h1]
+[list]
+    [*] Hyperion
+[/list]
+
+[h1]Mass Effect[/h1]
+[list]
+    [*] Mass Effect Wing
+    [*] Mass Effect Reaper
+[/list]
+
+[h1]Half Life[/h1]
+[list]
+    [*] Lambda
+[/list]
+
+[h1]Warhammer[/h1]
+[list]
+    [*] Warhammer 40k Imperial Eagle - Aquila
+    [*] Warhammer 40k Blood Ravens
+    [*] Warhammer 40k The eight-pointed star of Chaos
+    [*] Warhammer 40k Elder Rune
+    [*] Warhammer 40k T’au Symbol
+    [*] Warhammer 40k Ork Skull
+[/list]
+
+[h1]Final Fantasy[/h1]
+[list]
+    [*] Final Fantasy X Yevon
+[/list]
+
+[h1]Star Wars[/h1]
+[list]
+    [*] Star Wars Empire
+    [*] Star Wars Rebels
+[/list]
+
+[list]
+    [*] Iron Force
+[/list]
+
+[hr][/hr]
+
+[h1]Do you want to add a Flag to the mod?[/h1]
+
+If you would like to see some more flag in the game, and you have a flag ready, you can send me your flags and I'm going to add these to the mod and I'm giving credit to you in the workshop description (this section).
+
+Flag Creation
+The Files needed for this mod are .png files or .dds files (make sure the background is transparent).
+
+You need to include multiple sizes of your flag:
+- 256 x 256 (map)
+- 128 x 128 (default)
+- 24 x 24 (small)
+
+The Files need the following colors
+- map: white
+- default: gold
+- small: gold
+
+Send me the files
+To message me, just pm me on steam, you can upload the files to e.g. a cloud-service (imgur.com)
+
+Respecht the copyright
