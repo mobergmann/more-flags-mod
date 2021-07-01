@@ -1,19 +1,16 @@
-# more-flags-mod
+[h1]more-flags-mod[/h1]
 A Stellaris mod, which adds more flags to the game.
 This mod is Achievement compatible.
 
 
-
-## Have a flag suggestion?
-
+[h2]Have a flag suggestion?[/h2]
 There are multiple ways how you can suggest new flags:
 1. ([b]Prefered[/b]) Fork me on [url=https://github.com/mobergmann/more-flags-mod/issues]GitHub[/url], add the Flag yourself and create a Pull Request
 2. ([b]Easiest[/b]) Create an Issue on [url=https://github.com/mobergmann/more-flags-mod/issues]GitHub[/url]
 3. Contact me on Steam
 
 
-
-## Flag list
+[h2]Flag list[/h2]
 - Real World Flags
   - Europe stars
   - Canadian leave
@@ -57,10 +54,7 @@ There are multiple ways how you can suggest new flags:
 - General
     - Iron Force
 
-
-
-## When creating a Flag
-
+[h2]When creating a Flag[/h2]
 [h3]File Format[/h3]
 The Files needed for this mod are [code single].png[/code] files or [code single].dds[/code] files (make sure the background is transparent).
 
@@ -77,8 +71,6 @@ The Files need the following colors
 - small: gold
 
 
-
-# Special thanks to
-
+[h1]Special thanks to[/h1]
 - Sektumsenturias
 - …

@@ -3,14 +3,12 @@ A Stellaris mod, which adds more flags to the game.
 This mod is Achievement compatible.
 
 
-
 ## Have a flag suggestion?
 
 There are multiple ways how you can suggest new flags:
 1. (**Prefered**) Fork me on [GitHub](https://github.com/mobergmann/more-flags-mod/issues), add the Flag yourself and create a Pull Request
 2. (**Easiest**) Create an Issue on [GitHub](https://github.com/mobergmann/more-flags-mod/issues)
 3. Contact me on Steam
-
 
 
 ## Flag list
@@ -58,7 +56,6 @@ There are multiple ways how you can suggest new flags:
     - Iron Force
 
 
-
 ## When creating a Flag
 
 ### File Format
@@ -75,7 +72,6 @@ The Files need the following colors
 - map: white
 - default: gold
 - small: gold
-
 
 
 # Special thanks to
