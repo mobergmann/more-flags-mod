@@ -1,6 +1,8 @@
 # more-flags-mod
 A Stellaris mod, which adds more flags to the game.
-This mod is Achievement compatible.
+This mod is **Achievement compatible**.
+
+[![GitHub Banner](https://i.imgur.com/D7IfV4Q.jpeg)](https://github.com/mobergmann/more-flags-mod)
 
 
 ## Have a flag suggestion?
