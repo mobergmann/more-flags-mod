@@ -52,7 +52,7 @@ This mod is Achievement compatible.
 
 ## Got a suggestion?
 
-There are multilpe ways how you can suggest new flags:
+There are multiple ways how you can suggest new flags:
 1. (Prefered) Fork me on [GitHub](https://github.com/mobergmann/more-flags-mod/issues), add the Flag yourself and create a Pull Request
 2. (Easiest) Create an Issue on [GitHub](https://github.com/mobergmann/more-flags-mod/issues)
 3. Contact me on Steam
