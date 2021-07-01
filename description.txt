@@ -1,105 +1,84 @@
-[h1]White Flags[/h1]
-https://steamcommunity.com/sharedfiles/filedetails/?id=924125661
+# more-flags-mod
+A Stellaris mod, which adds more flags to the game.
+This mod is Achievement compatible.
 
-[hr][/hr]
 
-This mod adds following flags to the game
-Achievement compatible
 
-[h1]Real World Flags[/h1]
-[list]
-    [*] Europe stars
-    [*] Canadian leave
-    [*] Hammer and Sickle
-    [*] China
-    [*] Balkenkreuz
-    [*] Industrial Worker
-    [*] Roman Empire
-[/list]
+## Have a flag suggestion?
 
-[h1]Real World Symbols[/h1]
-[list]
-    [*] Atom
-    [*] Biohazard
-    [*] Pentagon
-    [*] Anarchist black cat
-    [*] Weed
-    [*] Google
-    [*] Blackwater
-[/list]
+There are multiple ways how you can suggest new flags:
+1. ([b]Prefered[/b]) Fork me on [url=https://github.com/mobergmann/more-flags-mod/issues]GitHub[/url], add the Flag yourself and create a Pull Request
+2. ([b]Easiest[/b]) Create an Issue on [url=https://github.com/mobergmann/more-flags-mod/issues]GitHub[/url]
+3. Contact me on Steam
 
-[h1]Zelda[/h1]
-[list]
-    [*] Triforce
-[/list]
 
-[h1]Portal[/h1]
-[list]
-    [*] Aperture Science
-    [*] Cerberus
-[/list]
 
-[h1]Borderlands[/h1]
-[list]
-    [*] Hyperion
-[/list]
+## Flag list
+- Real World Flags
+  - Europe stars
+  - Canadian leave
+  - Hammer and Sickle
+  - China
+  - Balkenkreuz
+  - Industrial Worker
+  - Roman Empire
+- Real World Symbols
+    - Atom
+    - Biohazard
+    - Pentagon
+    - Anarchist black cat
+    - Weed
+    - Google
+    - Blackwater
+- The Legend of Zelda
+    - Triforce
+- Portal
+    - Aperture Science
+    - Cerberus
+- Borderlands
+    - Hyperion
+- Mass Effect
+    - Mass Effect Wing
+    - Mass Effect Reaper
+- Half Life
+    - Black Mesa
+- Warhammer
+    - Warhammer 40k Imperial Eagle - Aquila
+    - Warhammer 40k Blood Ravens
+    - Warhammer 40k The eight-pointed star of Chaos
+    - Warhammer 40k Elder Rune
+    - Warhammer 40k T'au Symbol
+    - Warhammer 40k Ork Skull
+- Final Fantasy
+    - Final Fantasy X Yevon
+- Star Wars
+    - Star Wars Empire
+    - Star Wars Rebels
+- General
+    - Iron Force
 
-[h1]Mass Effect[/h1]
-[list]
-    [*] Mass Effect Wing
-    [*] Mass Effect Reaper
-[/list]
 
-[h1]Half Life[/h1]
-[list]
-    [*] Lambda
-[/list]
 
-[h1]Warhammer[/h1]
-[list]
-    [*] Warhammer 40k Imperial Eagle - Aquila
-    [*] Warhammer 40k Blood Ravens
-    [*] Warhammer 40k The eight-pointed star of Chaos
-    [*] Warhammer 40k Elder Rune
-    [*] Warhammer 40k T’au Symbol
-    [*] Warhammer 40k Ork Skull
-[/list]
+## When creating a Flag
 
-[h1]Final Fantasy[/h1]
-[list]
-    [*] Final Fantasy X Yevon
-[/list]
+[h3]File Format[/h3]
+The Files needed for this mod are [code single].png[/code] files or [code single].dds[/code] files (make sure the background is transparent).
 
-[h1]Star Wars[/h1]
-[list]
-    [*] Star Wars Empire
-    [*] Star Wars Rebels
-[/list]
-
-[list]
-    [*] Iron Force
-[/list]
-
-[hr][/hr]
-
-[h1]Do you want to add a Flag to the mod?[/h1]
-
-If you would like to see some more flag in the game, and you have a flag ready, you can send me your flags and I'm going to add these to the mod and I'm giving credit to you in the workshop description (this section).
-
-Flag Creation
-The Files needed for this mod are .png files or .dds files (make sure the background is transparent).
-
+[h3]Sizes[/h3]
 You need to include multiple sizes of your flag:
 - 256 x 256 (map)
 - 128 x 128 (default)
 - 24 x 24 (small)
 
+[h3]Colors[/h3]
 The Files need the following colors
 - map: white
 - default: gold
 - small: gold
 
-Send me the files
-To message me, just pm me on steam, you can upload the files to e.g. a cloud-service (imgur.com)
 
-Respecht the copyright
+
+# Special thanks to
+
+- Sektumsenturias
+- …
